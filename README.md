@@ -1,4 +1,4 @@
-#SendGrid UI / Web Developer Challenge
+# SendGrid UI / Web Developer Challenge
 
 We want to see your amazing UI development skills in action!  Please take 2 hours or less to complete this fun code challenge:
 
